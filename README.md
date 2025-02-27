@@ -13,6 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=golang,postgresql,redis,gitlab,linux,kafka&perline=3)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,numpy,pandas,scipy,scikit-learn)](https://skillicons.dev)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
