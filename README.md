@@ -11,7 +11,7 @@
 
 <h2>Main knowledge:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=golang,postgresql,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,postgresql,redis,gitlab,alpinelinux,flutter&perline=3)](https://skillicons.dev)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
